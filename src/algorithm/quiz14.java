@@ -1,6 +1,6 @@
 package algorithm;
 
-public class question14 {
+public class quiz14 {
 	static int med3(int a, int b, int c) {
 		if(a >= b) {
 			if (b >= c) 

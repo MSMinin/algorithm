@@ -1,6 +1,6 @@
 package algorithm;
 
-public class question18 {
+public class quiz18 {
 	static int sumof(int a, int b) {
 		int sum = 0;
 		if (a > b) {

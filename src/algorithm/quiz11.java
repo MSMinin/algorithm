@@ -1,6 +1,6 @@
 package algorithm;
 
-public class question11 {
+public class quiz11 {
 	
 	static int max4(int a, int b, int c, int d) {
 		int max = a;

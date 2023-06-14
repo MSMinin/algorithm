@@ -1,7 +1,7 @@
 package algorithm;
 
-public class question12 {
-	static int min3(int a, int b, int c) {
+public class quiz13 {
+	static int min4(int a, int b, int c, int d) {
 		int min = a;
 		
 		if(min > b) {
@@ -10,12 +10,15 @@ public class question12 {
 		if(min > c) {
 			min = c;
 		}
+		if(min > d) {
+			min = d;
+		}
 		return min;
 	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(min3(15,10,8));
+		System.out.println(min4(50,20,15,60));
 	}
 
 }
